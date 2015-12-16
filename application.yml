@@ -1,2 +1,3 @@
 app:
-  greeting: Hello, livinging room local
+  generic:
+    prop: generic-value
