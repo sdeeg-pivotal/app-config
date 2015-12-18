@@ -9,7 +9,7 @@ logging:
       org: WARN
 #
 #      #proxy, security-open
-#      spring:
-#        profiles:
-#            active: security,proxy
+spring:
+  profiles:
+    active: security-open,proxy
 
