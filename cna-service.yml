@@ -1,5 +1,12 @@
+---
+a:
+  b: value
 server:
   port: 8080
-
+---
 app:
   greeting: hello, world (git)
+---
+spring.profiles: cna
+app:
+  greeting: hello, world (cna profile)
