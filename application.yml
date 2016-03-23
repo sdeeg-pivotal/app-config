@@ -1,4 +1,4 @@
-message: hello, world (application.yml local repo)
+message: hello, world (application.yml git)
 app:
   generic:
     prop: generic-value
