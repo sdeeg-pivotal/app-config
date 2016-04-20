@@ -1,9 +1,13 @@
 ---
-server:
-  port: 8080
 app:
   greeting: hello, world (git)
 ---
+spring.profiles: local
+server:
+  port: 8080
+app:
+  greeting: hello, world (git local)
+---
 spring.profiles: cna
 app:
-  greeting: hello, world (cna profile)
+  greeting: hello, world (git cna profile)
