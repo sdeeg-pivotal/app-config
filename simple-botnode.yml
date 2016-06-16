@@ -1,6 +1,0 @@
-server:
-  port: 8081
-mcp:
-  botnode:
-    numbots: 3
-   
