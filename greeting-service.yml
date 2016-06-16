@@ -2,6 +2,7 @@
 app:
   greeting: hello, world (git)
 ---
-spring.profiles: boeing
+spring:
+  profiles: boeing
 app:
   greeting: hello, world (git boeing profile)
