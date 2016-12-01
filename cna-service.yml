@@ -1,6 +1,6 @@
 ---
 app:
-  greeting: hello, world (git)
+  greeting: hello, world (local git)
 ---
 spring.profiles: local
 server:
