@@ -3,6 +3,6 @@ app:
   greeting: hello, world (git)
 ---
 spring:
-  profiles: boeing
+  profiles: new
 app:
-  greeting: hello, world (git boeing profile xxxx)
+  greeting: hello, world (git new profile)
